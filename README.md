@@ -30,6 +30,19 @@ We explored several models, including LSTM and CNN+LSTM, and found GRU (Gated Re
 
 ---
 
+## 📈 Visualizations
+
+### Actual vs Predicted Traffic (GRU Model)
+![Actual vs Predicted](Images/ActualvsPredicted(GRU).png)
+
+### Training vs Validation Loss
+![Training vs Validation Loss](Images/Loss.png.png)
+
+### Training vs Validation (R2 Score)
+![Training vs Validation (R2 Score)](Images/TrainvsValidR2score.png)
+
+---
+
 ## 📊 Final Model Performance (GRU)
 
 | Metric          | Value     |
