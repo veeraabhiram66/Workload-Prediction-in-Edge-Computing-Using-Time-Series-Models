@@ -52,3 +52,11 @@ We explored several models, including LSTM and CNN+LSTM, and found GRU (Gated Re
 | **MSE**          | 0.06      |
 
 These results indicate highly precise forecasting, making the model suitable for real-time workload management and decision support in edge systems.
+
+
+## 📦 Dataset
+
+The model was trained and validated using the **China ISP Dataset**, which contains anonymized network traffic data.
+
+📥 [Download Dataset from Github](https://github.com/BuptMecMigration/Edge-Computing-Dataset)  
+---
