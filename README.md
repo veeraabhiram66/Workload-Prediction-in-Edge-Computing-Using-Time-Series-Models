@@ -36,7 +36,7 @@ We explored several models, including LSTM and CNN+LSTM, and found GRU (Gated Re
 ![Actual vs Predicted](Images/ActualvsPredicted(GRU).png)
 
 ### Training vs Validation Loss
-![Training vs Validation Loss](Images/Loss.png.png)
+![Training vs Validation Loss](Images/Loss.png)
 
 ### Training vs Validation (R2 Score)
 ![Training vs Validation (R2 Score)](Images/TrainvsValidR2score.png)
